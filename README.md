@@ -17,7 +17,7 @@ Demo video Link:
 Task2-Tribute page
 This page tributes to the S.P. Bala Subrahmanyam.
 
-![image](https://user-images.githubusercontent.com/119717566/205424230-e689f5a3-5f95-4d35-b494-2eb7c6b5a4f1.png)
+![image](https://im.rediff.com/movies/2020/sep/25sp-balu3.jpg?w=670&h=900)
 
 Demo video Link:
 
