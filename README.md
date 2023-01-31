@@ -6,7 +6,7 @@ Task1-Basic Calculator
 
 This is a calculator page where we can perform basic arithmetic operations like addition, substraction, multiplication and Division and decimal value operations.
 
-![image](https://www.linkpicture.com/q/basicCalculator.html-1.jpg)
+![image](https://www.linkpicture.com/q/basicCalculator.html-1-2.jpg)
 
 Demo video Link:
 
@@ -17,7 +17,9 @@ Demo video Link:
 Task2-Tribute page
 This page tributes to the S.P. Bala Subrahmanyam.
 
-![image](https://im.rediff.com/movies/2020/sep/25sp-balu3.jpg?w=670&h=900)
+![image](https://www.linkpicture.com/q/tribute-1.jpg)
+![image](https://www.linkpicture.com/q/tribute-2.jpg)
+![image](https://www.linkpicture.com/q/tribute-3.jpg)
 
 Demo video Link:
 
