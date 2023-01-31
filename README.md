@@ -32,6 +32,6 @@ Task3- Basic To-do-list
 
 We can add a set of activities to our to do list and we can remove the activities after they are done and we can mark it as completed.
 
-![image](https://user-images.githubusercontent.com/119717566/205424388-1711fed0-4a4c-42ef-8d7e-a16123951a91.png)
+![image](https://www.linkpicture.com/q/todos-1.jpg)
 
 Demo video link:
