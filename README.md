@@ -6,7 +6,7 @@ Task1-Basic Calculator
 
 This is a calculator page where we can perform basic arithmetic operations like addition, substraction, multiplication and Division and decimal value operations.
 
-![image](https://ibb.co/jRhwSV1)
+![image](https://www.linkpicture.com/q/basicCalculator.html-1.jpg)
 
 Demo video Link:
 
