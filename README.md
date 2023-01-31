@@ -17,9 +17,10 @@ Demo video Link:
 Task2-Tribute page
 This page tributes to the S.P. Bala Subrahmanyam.
 
-![image](https://www.linkpicture.com/q/tribute-1.jpg)
-![image](https://www.linkpicture.com/q/tribute-2.jpg)
-![image](https://www.linkpicture.com/q/tribute-3.jpg)
+![image](https://www.linkpicture.com/q/tribute-1_1.jpg)
+![image](https://www.linkpicture.com/q/tribute-2_1.jpg)
+![image](https://www.linkpicture.com/q/tribute-3_1.jpg)
+
 
 Demo video Link:
 
